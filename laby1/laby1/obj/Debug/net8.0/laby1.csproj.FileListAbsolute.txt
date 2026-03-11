@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\laby1\laby1\bin\Debug\net8.0\laby1.exe
+C:\Users\student\Desktop\laby1\laby1\bin\Debug\net8.0\laby1.deps.json
+C:\Users\student\Desktop\laby1\laby1\bin\Debug\net8.0\laby1.runtimeconfig.json
+C:\Users\student\Desktop\laby1\laby1\bin\Debug\net8.0\laby1.dll
+C:\Users\student\Desktop\laby1\laby1\bin\Debug\net8.0\laby1.pdb
+C:\Users\student\Desktop\laby1\laby1\obj\Debug\net8.0\laby1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\laby1\laby1\obj\Debug\net8.0\laby1.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\laby1\laby1\obj\Debug\net8.0\laby1.AssemblyInfo.cs
+C:\Users\student\Desktop\laby1\laby1\obj\Debug\net8.0\laby1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\laby1\laby1\obj\Debug\net8.0\laby1.dll
+C:\Users\student\Desktop\laby1\laby1\obj\Debug\net8.0\refint\laby1.dll
+C:\Users\student\Desktop\laby1\laby1\obj\Debug\net8.0\laby1.pdb
+C:\Users\student\Desktop\laby1\laby1\obj\Debug\net8.0\laby1.genruntimeconfig.cache
+C:\Users\student\Desktop\laby1\laby1\obj\Debug\net8.0\ref\laby1.dll
